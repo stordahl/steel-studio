@@ -14,9 +14,7 @@
     "@sanity/default-login",
     "@sanity/desk-tool",
     "barcode-input",
-    "@sanity/dashboard",
-    "snipcart-orders",
-    "snipcart-bestsellers"
+    "@sanity/dashboard"
   ],
   "env": {
     "development": {
