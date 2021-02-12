@@ -29,7 +29,7 @@
           "alt": "A preview image of the Sanity Studio."
         },
         "buildSettings": {
-          "base": "studio",
+          "base": "./",
           "dir": "dist",
           "cmd": "npm run build && cp netlify.toml dist"
         },
