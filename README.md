@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/WKwXSrv/steel-logo-01-01.jpg" alt="Steel Logo" width="200px"/>
+
 # steel-studio 🎨
 
 this is the repo for the one-click starter Sanity Studio for the Steel Headless E-commerce tool kit. 
