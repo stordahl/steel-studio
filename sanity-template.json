@@ -1,7 +1,7 @@
 {
   "version": 2,
   "title": "Steel Studio @ Netlify",
-  "description": "Steel is a sudo framework for headless ecommerce using Sanity & Snipcart",
+  "description": "Steel is a tool kit for headless ecommerce using Sanity & Snipcart",
   "previewMedia": {
     "type": "image",
     "src": "assets/steel.png",  
