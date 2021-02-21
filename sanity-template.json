@@ -4,7 +4,7 @@
   "description": "Steel is a tool kit for headless ecommerce using Sanity & Snipcart",
   "previewMedia": {
     "type": "image",
-    "src": "assets/steel.png",  
+    "src": "https://i.ibb.co/WKwXSrv/steel-logo-01-01.jpg",  
     "alt": "Netlify"
   },
   "technologies": [
